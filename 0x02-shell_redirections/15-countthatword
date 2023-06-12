@@ -1,0 +1,2 @@
+#!/bin/bash
+grep "bin" /ete/passwd | wc -1
